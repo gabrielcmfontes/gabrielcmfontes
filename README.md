@@ -3,7 +3,7 @@
 
 
 
-I'm 17yo, I live in João Monlevade, Brazil and I've been programming in the last months. I love back-end, math and anime.
+I'm 18yo, I live in João Monlevade, Brazil and I've been programming in the last months. I love back-end, math and anime.
 
 <img src="https://image.myanimelist.net/ui/_3fYL8i6Q-n-155t3dn_4jx_gY5XBf64ev2QD4G5tN5nHzpjZtpRGnOCL0chOGpS">
 
